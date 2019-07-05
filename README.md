@@ -1,4 +1,4 @@
-# edgeverve_ml_challenge
+# [Learn more about the Solution](https://asingleneuron.blogspot.com/)
 
 ## About the Data:
 Data consists of Invoice details for multiple customers as described below:
