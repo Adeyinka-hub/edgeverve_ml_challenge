@@ -1,5 +1,4 @@
-# [Learn more about the Solution](https://asingleneuron.blogspot.com){target="_blank"}
-<a href="https://asingleneuron.blogspot.com" target="_blank">Hello, world!</a>
+# [Learn more about the Solution](https://asingleneuron.blogspot.com)
 
 
 ## About the Data:
