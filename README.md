@@ -22,6 +22,3 @@ You need to innovate a high accuracy classification system to predict ‘Product
 
 ### Evaluation Metric:
 Accuracy Score
-
-### Acknowledgements
-This dataset was used in one the competition on hackerearth platform. It's a beginner level dataset by uploading it here I am just giving an opportunity to other beginner level or who have just started journey towards machine learning to play with it. 
