@@ -22,3 +22,7 @@ You need to innovate a high accuracy classification system to predict ‘Product
 
 ### Evaluation Metric:
 Accuracy Score
+
+
+### Model with Selected Features:
+![Model_with_selected_features](images/selected_features.png)
