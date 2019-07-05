@@ -19,8 +19,8 @@ Data consists of Invoice details for multiple customers as described below:
 	A pseudo product category is represented in the dataset as CLASS-???, where ? is a digit.
 
 ### Task:
-You need to innovate a high accuracy classification system to predict ‘Product Category’, given invoice information.
+Our task to predict ‘Product Category’ for the given invoice information.
 
 ### Evaluation Metric:
-Accuracy Score
+Evaluation metric for this problem is Accuracy Score
 
