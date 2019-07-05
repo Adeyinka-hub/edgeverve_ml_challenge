@@ -1,4 +1,4 @@
-# [Learn more about the Solution](https://asingleneuron.blogspot.com/)
+# [Learn more about the Solution](https://asingleneuron.blogspot.com/){target="_blank"}
 
 ## About the Data:
 Data consists of Invoice details for multiple customers as described below:
