@@ -1,7 +1,8 @@
 Participated in Edgeverve machine learning challenge and able to achieve **100% accuracy** score on test data. **Curious to know how ?** 
 
-# [Learn more about the Solution](https://asingleneuron.blogspot.com/2019/07/the-great-india-data-science-challenge.html)
+# [Learn more about the Solution: blogpost](https://asingleneuron.blogspot.com/2019/07/the-great-india-data-science-challenge.html)
 
+# [Learn more about the Solution: YouTube](https://www.youtube.com/watch?v=PzWoc0wSeGE&t=7s)
 
 ## About the Data:
 Data consists of Invoice details for multiple customers as described below:
