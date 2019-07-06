@@ -1,6 +1,6 @@
 Participated in Edgeverve machine learning challenge and able to achieve **100% accuracy** score on test data. **Curious to know how ?** 
 
-# [Learn more about the Solution](https://asingleneuron.blogspot.com)
+# [Learn more about the Solution](https://asingleneuron.blogspot.com/2019/07/the-great-india-data-science-challenge.html)
 
 
 ## About the Data:
